@@ -6,7 +6,7 @@ I also go as **Benwager12** on some social media.
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=benwager12.visitor-badge&right_color=green) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benwager12&theme=dark)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benwager12&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benwager12&theme=dark&layout=compact)
 
 ## Something about me
